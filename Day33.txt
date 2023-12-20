@@ -1,0 +1,11 @@
+GitHub Respositiory = https://github.com/NithishKumarstack/Day33-Assignment.git
+
+Render Url = https://nodejs-filesystem-10pj.onrender.com/
+
+End Points {
+  
+   GetFiles = https://nodejs-filesystem-10pj.onrender.com/getAllFiles
+
+   PostFiles = https://nodejs-filesystem-10pj.onrender.com/createFile
+
+}
